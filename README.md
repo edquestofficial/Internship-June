@@ -7,5 +7,5 @@ Internship-June for Generative AI
  - TripBot [Github](https://github.com/edquestofficial/TripBot)
 
 ## RAG with LLama Index Projects
- - [General](https://github.com/edquestofficial/RAG-With-LLama-Index)
+ - QnA [Link](https://github.com/edquestofficial/RAG-With-LLama-Index)
  - 
